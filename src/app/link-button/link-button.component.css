@@ -1,0 +1,9 @@
+.link-button {
+    text-decoration: none;
+    color: #1E5EFF;
+    margin: 1em 0em 0em 0em;
+}
+
+a:visited {
+    color: #1E5EFF;
+  }
